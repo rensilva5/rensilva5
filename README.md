@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rensilva5
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Javascript
+- Getting ready to become a Software Enginner.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Discord or email.
 
