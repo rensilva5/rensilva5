@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 ### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Firestore,Azure)](https://github.com/rensilva5)
 
+### ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensilva5&show_icons=true&theme=radical) 
+
 ### Let's connect!
 
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
