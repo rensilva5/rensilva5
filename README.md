@@ -9,7 +9,7 @@
 rensilva5/rensilva5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# <h1 align="center"> Passionate technology, Astronony, & developing. 🪐 </h1>
+# <h1 align="center"> Passionate about Technology, Astronony, & Developing. 🪐 </h1>
 ### ![](https://komarev.com/ghpvc/?username=your-github-rensilva5&color=ff69b4)
 
 ### [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Node.js,React)](https://github.com/rensilva5)
