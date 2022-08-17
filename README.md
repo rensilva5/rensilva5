@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @rensilva5
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript
-- 🪡 Getting ready to become a Software Enginner.
+Hi 👋 My name is Renzo Silva 
+============================ 
+Software Engineer Student
+----------------------------  
+- 👋 Hi, I’m @rensilva5, and I'm a Software Engineer student at Boca Code. I LOVE exploring, learning, and acomplishing new layers and paths in knowledge and tech. My background includes customer service, banking, recruitment, hospitality, and transportation. I am passionate about assisting others and facing new challanges.
+
+- 👀 I’m interested in programming.
+- 🪡 I am getting ready to become a Software Enginner.
+- 🌱 I’m currently learning Javascript, react, and react-native.
+- 🌍 Somethings about me: I love nature, environment, and family.
+- ✉️  You can contact me at [renzoasilva@gmail.com](mailto:renzoasilva@gmail.com)
+-  I am based in Delray, Florida 🌞.
+
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Discord or email.
 
