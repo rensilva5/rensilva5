@@ -9,7 +9,7 @@ Software Engineer Student
 - 🌱 I’m currently learning Javascript, react, and react-native.
 - 🌍 Somethings about me: I love nature, environment, and family.
 - ✉️  You can contact me at [renzoasilva@gmail.com](mailto:renzoasilva@gmail.com)
--  I am based in Delray, Florida 🌞.
+- 🛳 I am based in Delray, Florida 🌞.
 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Discord or email.
