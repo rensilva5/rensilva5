@@ -1,6 +1,6 @@
 Hi 👋 My name is Renzo Silva 
 ============================ 
-Software Engineer Student
+Software Engineer
 ----------------------------  
 - 👋 Hi, I’m @rensilva5, and I'm a Software Engineer student at Boca Code. I LOVE exploring, learning, and acomplishing new layers and paths in knowledge and tech. My background includes customer service, banking, recruitment, hospitality, and transportation. I am passionate about assisting others and facing new challanges.
 
