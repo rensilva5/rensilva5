@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 ### [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Node.js,React)](https://github.com/rensilva5)
 
-### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Node.js,Express.js,Bootstrap,Typescript,Python,React-Native,Electron,SASS)](https://github.com/rensilva5)
+### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Node.js,Express.js,Bootstrap,Typescript,React-Native,SASS)](https://github.com/rensilva5)
 
 ### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Firestore,Azure)](https://github.com/rensilva5)
 
