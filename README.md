@@ -10,6 +10,7 @@ Software Engineer
 - 🌍 Somethings about me: I love nature, environment, and family.
 - ✉️  You can contact me at [renzoasilva@gmail.com](mailto:renzoasilva@gmail.com)
 - 🛳 I am based in Delray, Florida 🌞.
+- Visit my website portfolio @ [renzosilva.net](https://renzosilva.net/)
 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Discord or email.
@@ -18,7 +19,7 @@ Software Engineer
 rensilva5/rensilva5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# <h1 align="center"> Passionate about Technology, Astronony, Nature, & Development. 🪐 </h1>
+# <h1 align="center"> Passionate about Technology, Astronony, Nature, & Web Development. 🪐 </h1>
 ### ![](https://komarev.com/ghpvc/?username=your-github-rensilva5&color=ff69b4)
 
 ### Skills
